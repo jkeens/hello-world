@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub
-Working on a lab
+Working on a lab and editing
